@@ -625,7 +625,7 @@ nav{
   flex-direction: column;
   background: rgb(248, 248, 248);
   margin-top: 2rem;
-  height: 500px;
+  height: 750px;
   
 }
 
@@ -674,7 +674,7 @@ nav{
   flex-direction: column;
   padding-left: 1rem;
   color: #6C7175;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   gap: 30px;
 }
 
